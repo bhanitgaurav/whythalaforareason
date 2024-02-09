@@ -1,16 +1,23 @@
 # whythalaforareason
 
-A new Flutter project.
+A Flutter project compatible in Android, IOS and Web.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project has a home screen having a text field and a find button which find the input string
+value why is it THALA FOR A REASON?
 
-A few resources to get you started if this is your first Flutter project:
+# 1. Customized Themes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 2. Custom dialog for IOS and Android.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 3. StateManagement
+
+# 4. Helper Class
+
+# 5. Share link
+
+- [Connect me : LinkedIn](https://www.linkedin.com/in/bhanitgaurav/)
+- [Website : Portfolio](https://www.bhanitgaurav.com/)
+
+
